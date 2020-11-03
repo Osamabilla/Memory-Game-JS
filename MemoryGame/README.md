@@ -1,4 +1,4 @@
-# assignment66
+# Memory Card Game
 
 ## Project setup
 ```
